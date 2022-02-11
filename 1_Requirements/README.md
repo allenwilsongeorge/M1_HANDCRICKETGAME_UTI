@@ -59,6 +59,22 @@ How
 -----------------------------------------------------------------------
 To keep this app a gamer friendly, it was developed in C language
 
+## High Level Requirements
+| ID | Description | Status |
+|--|--|--|
+| HR01 |Main Menu  | Implemented |
+| HR02 | Can be played by 2 players | Implemented |
+| HR03 | Toss |  Implemented |
+| HR04 | Batting/Bowling |  Implemented |
+## Low Level Requirements 
+| ID | Description | HR ID | Status |
+|--|--|--|--|
+| LR01 |Main menu should consist 4 options asking for 1.Limited Overs 2.Play Until Out 3.Instructions For the Game 4.Quit  | HR01| Implemented |
+| LR02 | Reading the names of the two players and asking for the selection of head/tail while tossing the coin. | HR02| Implemented |
+ LR03 | Implementing a function which takes the users according to the toss for the next steps which are batting/bowling. | HR03| Implemented |
+| LR04 | If user searches for an invalid key "Invalid Input" message should be displayed | HR03| Implemented |
+| LR05 |Implementing a fnction named batting which returns the total sum of the score of the two players. | HR04| Implemented |
+
 
 
 
