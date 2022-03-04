@@ -1,8 +1,10 @@
 DESCRIPTION:-
 -------------------------------------------------------------------------
-![1_Introduction (2)](https://user-images.githubusercontent.com/98945509/153711105-72367a91-ecc6-46f7-94f7-9799a71ef2d9.png)
+INTRODUCTION:
+------------------------------------------------------------------------
+"Hand Cricket Game" is a game that is developed in c language. Hand cricket is an indoor game which can be played by two players. When one of the player wins the toss, the player has to select whether he has to bowl or bat. The player who lost the toss will be getting bat or bowl according the player 1's decision. If the last digit is 7/8 / 9 then it will be considered as a dot ball. The obtained score will be added to the batsman's score every time. The batsman will be out if the number is 0. The player 2 will also has to play according to this.
 
-REQUIREMENTS:-
+REQUIREMENTS:
 -------------------------------------------------------------------------
 ## High Level Requirements
 | ID | Description | Status |
