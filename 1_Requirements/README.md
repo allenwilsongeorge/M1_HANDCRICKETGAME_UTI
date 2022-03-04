@@ -3,15 +3,32 @@ REQUIREMENTS:
 INTRODUCTION:-
 ----------------------------------------
 
-![1_Introduction](https://user-images.githubusercontent.com/98945509/153564094-e5560c90-9d9a-4932-90e5-882b2f488f24.png)
+"Hand Cricket Game" is a game that is developed in c language. Hand cricket is an indoor game which can be played by two players. When one of the player wins the toss, the player has to select whether he has to bowl or bat. The player who lost the toss will be getting bat or bowl according the player 1's decision. If the last digit is 7/8 / 9 then it will be considered as a dot ball. The obtained score will be added to the batsman's score every time. The batsman will be out if the number is 0. The player 2 will also has to play according to this.
 
 ADVANTAGES AND DISADVANTAGES:-
-------------------------------------------------------------
-![2_Advantages and Disadvantages](https://user-images.githubusercontent.com/98945509/153564414-aae81c12-0d94-4126-9391-8a0cd4c4d47a.png)
+---------------------------------------------------
+ADVANTAGES: 
+
+1. Faster access to the app.
+
+2.Less memory for storage.
+
+3.Realxation and stress buster
+
+DISADVANTAGES:
+
+1.Only two players can play this game
+
+2.This game makes the player more competitive
+
+3.Previous game data is not saved
 
 COST AND FEATURES:-
 --------------------------------------------------------------
-![4_cost and features](https://user-images.githubusercontent.com/98945509/153564659-5ffe1823-9a4f-4fff-8472-40e688eb5d16.png)
+
+1. The sum of the scores of the players can be found induvidually
+2. Random values can be generated
+3. There is complexity
 
 FLOWCHART:-
 ------------------------------------------------------------------
